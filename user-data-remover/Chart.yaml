@@ -1,5 +1,0 @@
-apiVersion: v1
-appVersion: 0.1.0
-description: 
-name: user-data-remover
-version: 0.1.0
